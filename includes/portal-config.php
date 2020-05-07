@@ -52,10 +52,10 @@ switch(THIS_PAGE){
 
 //place URL & labels in the array here for navigation:
 $nav1['index.php'] = "Welcome";
-$nav1['big/index.php'] = "Big";
+//$nav1['big/index.php'] = "Big";
 $nav1['aia.php'] = "AIA";
 $nav1['flowchart.php'] = "Flowchart";
-$nav1['fp/index.php'] = "Final Project";
+//$nav1['fp/index.php'] = "Final Project";
 $nav1['contactme.php'] = "Contact Jiyun";
 
 /*
