@@ -8,7 +8,7 @@
   </ul>
 </div>
 
-<div class="w-50"><a href="others.php">
+<div class="w-50" tabindex="0"><a href="others.php">
     <img src="images/pad.png" alt="pad" />
     <div class="more">
         <p>Best Seller</p>
